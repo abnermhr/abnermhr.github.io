@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HurryMa</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-01-22T12:45:05.841Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>马灏瑞</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Euler</title>
+    <link href="http://yoursite.com/2020/01/22/Euler/"/>
+    <id>http://yoursite.com/2020/01/22/Euler/</id>
+    <published>2020-01-22T12:45:05.841Z</published>
+    <updated>2020-01-22T12:45:05.841Z</updated>
+    
+    <content type="html"><![CDATA[<script type="math/tex; mode=display">e^{i \pi}+1=0</script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script type=&quot;math/tex; mode=display&quot;&gt;
+e^{i \pi}+1=0&lt;/script&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>M</title>
+    <link href="http://yoursite.com/2020/01/22/M/"/>
+    <id>http://yoursite.com/2020/01/22/M/</id>
+    <published>2020-01-22T12:32:49.000Z</published>
+    <updated>2020-01-22T12:36:01.542Z</updated>
+    
+    <content type="html"><![CDATA[<p>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \\<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \\<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;\begin{eqnarray}&lt;br&gt;\nabla\cdot\vec{E} &amp;amp;=&amp;amp; \frac{\rho}{\epsilon_0} \\&lt;br&gt;\nabla\cdot\vec{B} &amp;amp;=&amp;amp; 0 \\&lt;br&gt;\nabla\times\vec{
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+      <category term="LaTeX" scheme="http://yoursite.com/tags/LaTeX/"/>
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="http://yoursite.com/2020/01/22/hello-world/"/>
+    <id>http://yoursite.com/2020/01/22/hello-world/</id>
+    <published>2020-01-22T11:10:00.086Z</published>
+    <updated>2020-01-22T11:10:00.086Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="还能看见不"><a href="#还能看见不" class="headerlink" title="还能看见不"></a>还能看见不</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;还能看见不&quot;&gt;&lt;a href=&quot;#还能看见不&quot; class=&quot;headerlink&quot; title=&quot;还能看见不&quot;&gt;&lt;/a&gt;还能看见不&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HurryHorse</title>
+    <link href="http://yoursite.com/2020/01/22/HurryHorse/"/>
+    <id>http://yoursite.com/2020/01/22/HurryHorse/</id>
+    <published>2020-01-22T11:08:13.639Z</published>
+    <updated>2020-01-22T11:08:13.639Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="M"><a href="#M" class="headerlink" title="M"></a>M</h2><h2 id="能看见不"><a href="#能看见不" class="headerlink" title="能看见不"></a>能看见不</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;M&quot;&gt;&lt;a href=&quot;#M&quot; class=&quot;headerlink&quot; title=&quot;M&quot;&gt;&lt;/a&gt;M&lt;/h2&gt;&lt;h2 id=&quot;能看见不&quot;&gt;&lt;a href=&quot;#能看见不&quot; class=&quot;headerlink&quot; title=&quot;能看见不&quot;&gt;&lt;/a&gt;能看见不&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
