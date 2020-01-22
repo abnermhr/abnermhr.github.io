@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Euler</title>
+      <link href="/2020/01/22/Euler/"/>
+      <url>/2020/01/22/Euler/</url>
+      
+        <content type="html"><![CDATA[<script type="math/tex; mode=display">e^{i \pi}+1=0</script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>M</title>
+      <link href="/2020/01/22/M/"/>
+      <url>/2020/01/22/M/</url>
+      
+        <content type="html"><![CDATA[<p>\begin{eqnarray}<br>\nabla\cdot\vec{E} &amp;=&amp; \frac{\rho}{\epsilon_0} \\<br>\nabla\cdot\vec{B} &amp;=&amp; 0 \\<br>\nabla\times\vec{E} &amp;=&amp; -\frac{\partial B}{\partial t} \\<br>\nabla\times\vec{B} &amp;=&amp; \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)<br>\end{eqnarray}</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
